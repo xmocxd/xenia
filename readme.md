@@ -3,6 +3,8 @@ Generative + Traditional Music Composer
 
 WIP
 
+- focused on keyboard control
+
 - sequencer (piano roll)
 - patterns + pattern chaining -- patterns of any length
 - coloration of different instruments -- spread out each pattern vertically within the instrument layer
